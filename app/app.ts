@@ -1,9 +1,4 @@
 import { Component } from '@angular/core';
-import { NgFor } from "@angular/common";
-/*@Component({
-  selector: 'hello-world',
-  template: '<h1>Hello {{name}}</h1>'
-})*/
 @Component({
   selector: 'reddit',
   template: `
